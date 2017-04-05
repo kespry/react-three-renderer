@@ -20,7 +20,7 @@
   "peerDependencies": {
     "react": "~15.4.0",
     "react-dom": "~15.4.0",
-    "three": "~0.82.1"
+    "three": "~0.84.0"
   },
   "devDependencies": {
     "babel-cli": "6.18.0",
@@ -69,7 +69,7 @@
     "sinon": "2.0.0-pre",
     "source-map-support": "0.4.6",
     "stream-to-string": "1.1.0",
-    "three": "0.82.1",
+    "three": "0.84.0",
     "webpack": "1.13.3",
     "webpack-dev-server": "1.16.2"
   },
